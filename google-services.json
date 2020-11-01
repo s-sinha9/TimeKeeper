@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956136762662",
+    "firebase_url": "https://shubham-time-keeper.firebaseio.com",
+    "project_id": "shubham-time-keeper",
+    "storage_bucket": "shubham-time-keeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956136762662:android:57200230888960caeee5e7",
+        "android_client_info": {
+          "package_name": "com.timekeeperapp.timekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956136762662-qfr291n9ks0phha6702tsjielortmm77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoRbCW1kv47dABUeEDyrd-ZWzjjTcHcKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956136762662-qfr291n9ks0phha6702tsjielortmm77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

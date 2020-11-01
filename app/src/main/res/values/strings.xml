@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Time Keeper</string>
+    <string name="edit_message">Set Time</string>
+    <string name="button_send">Start</string>
+    <string name="start_time">00:00:00</string>
+
+</resources>
